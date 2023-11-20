@@ -1,0 +1,9 @@
+import React from "react";
+// import ReactDOM from "react-dom";
+
+const App = () => {
+            // returns "GIT-TUTORIAL Header"
+           return( <h1> GIT-TUTORIAL</h1>)
+}
+
+export default App;
